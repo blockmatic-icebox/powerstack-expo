@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "solana-expo-app",
-    "slug": "solana-expo-app",
+    "name": "powerstack-app",
+    "slug": "powerstack-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
