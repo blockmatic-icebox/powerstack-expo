@@ -1,2 +1,3 @@
-# solana-expo-starter
+# Solana Expo App
+
 Solana React Native Expo Starter
