@@ -2,7 +2,9 @@
 
 PowerStack React Native Expo Starter
 
+⚡️ [PowerStack: a powerful fullstack web3 development framework](https://powerstack.xyz).
 
+_Disclaimer: This is a work in progress. Will be finalized soon._
 ## Blockmatic
 
 Blockmatic is building a robust ecosystem of people and tools for the development of blockchain applications.
